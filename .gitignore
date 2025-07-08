@@ -10,3 +10,7 @@ env/
 data
 *.DS_Store
 twitter.txt
+.vscode/
+.vscode
+__pycache__/
+__pycache__
